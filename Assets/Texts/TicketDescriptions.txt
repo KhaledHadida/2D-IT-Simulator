@@ -1,0 +1,5 @@
+{1}Hi there,\n\nwe have just hired a new employee in our department {Z}! Can you please add {X} into the system. He'll be working as a {Y}.\n\nThank you!
+{2}Hello,\n\nrecently an employee by the name {X} from {Z} has signed his resignation paper. I've already taken his stuff and will be sending it to HR soon. Can you guys please take care of removing this employee quick.\n\nThanks!
+{3}Hi,\n\ndue to some workplace conduct violation, we have fired {X} from {Z}, Please terminate his account ASAP.\n\nThank you!
+{4}Hey,\n\n{X} has been performing exceptionally well in our department of {Z} and was authorized a promotion, can you please promote {X} to a manager role for {Y}.\n\nThank you!
+{5}Hello,\n\nOne of my employees informed me that I couldn't invite them to a virtual meeting because of an incorrect name, can you please fix up the first name for {X} to {U}. They are in department {Z} as {Y}.\n\nThanks!
